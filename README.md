@@ -8,7 +8,7 @@ Back-End / FullStack Developer
 
 # Learning
 
-**DIO - Decola Tech 2a Edição: **
+**DIO - Decola Tech 2a Edição:**
 
 [![CSharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
