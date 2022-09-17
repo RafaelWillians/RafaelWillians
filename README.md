@@ -8,7 +8,7 @@ Back-End / FullStack Developer
 
 # Learning
 
-**DIO - Database Experience: **
+**DIO - Database Experience:**
 
 [![GitHub2 Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
