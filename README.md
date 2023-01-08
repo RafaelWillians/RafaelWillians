@@ -6,7 +6,13 @@
 
 Back-End / FullStack Developer
 
+Infrastructure Analyst
+
 # Learning
+
+**Microsoft**
+
+[![SC-900 Badge](https://img.shields.io/badge/SC--900-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/sc-900/) - Azure, Microsoft Purview
 
 **DIO - Database Experience:**
 
