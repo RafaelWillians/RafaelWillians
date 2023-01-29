@@ -4,15 +4,27 @@
 
 # Objective
 
-Back-End / FullStack Developer
+Business Intelligence Analyst
 
 Infrastructure Analyst
 
-# Learning
+# Done
 
 **Microsoft**
 
-[![SC-900 Badge](https://img.shields.io/badge/SC--900-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/sc-900/) - Azure, Microsoft Purview
+[![SC-900 Badge](https://img.shields.io/badge/SC--900%20--%20Security%2C%20Compliance%20and%20Identity-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/sc-900/) 
+
+[![Power BI Badge](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/desktop/) - Udemy: [Power BI para Todos: Fácil e Simples!](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/)
+
+# Doing
+
+**Microsoft**
+
+[![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/certifications/exams/pl-900)
+
+[![Microsoft 365 Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
+
+
 
 **DIO - Database Experience:**
 
@@ -23,8 +35,6 @@ Infrastructure Analyst
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-
-
 
 # Want to Learn
 
@@ -66,3 +76,6 @@ Infrastructure Analyst
 
 [![Windows11 Badge](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
 
+[![Microsoft 365 Badge](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365)
+
+[![Azure AD Badge](https://img.shields.io/badge/Microsoft_Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/pt-br/products/active-directory)
