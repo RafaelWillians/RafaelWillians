@@ -20,8 +20,6 @@ Fullstack Development
 
 # Doing
 
-**Microsoft**
-
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 
 [![CSS Badge](https://img.shields.io/badge/CSS%20--%20freeCodeCamp%20--%20Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
