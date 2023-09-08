@@ -1,4 +1,4 @@
-# Hello World!
+# Hello, World!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-silva-willians/)](https://www.linkedin.com/in/rafael-silva-willians/)[![Linktree Badge](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/rafawillians)](https://linktr.ee/rafawillians/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelWillians)](https://github.com/RafaelWillians)[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.willians@outlook.com)](mailto:rafael.willians@outlook.com)
 
@@ -7,6 +7,8 @@
 Business Intelligence Analyst
 
 Infrastructure Analyst
+
+Fullstack Development
 
 # Done
 
@@ -20,21 +22,11 @@ Infrastructure Analyst
 
 **Microsoft**
 
+[![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
+
 [![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/certifications/exams/pl-900)
 
 [![Microsoft 365 Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
-
-
-
-**DIO - Database Experience:**
-
-[![GitHub2 Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
 
 # Want to Learn
 
@@ -57,6 +49,8 @@ Infrastructure Analyst
 [![Kubernetes Badge](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
 
 [![NODE.JS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 [![VUE.JS Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)]()
 
