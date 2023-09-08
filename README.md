@@ -24,6 +24,8 @@ Fullstack Development
 
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 
+[![CSS Badge](https://img.shields.io/badge/CSS%20--%20freeCodeCamp%20--%20Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
 [![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/certifications/exams/pl-900)
 
 [![Microsoft 365 Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
