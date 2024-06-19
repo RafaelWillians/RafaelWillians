@@ -4,29 +4,57 @@
 
 # Objective
 
-Business Intelligence Analyst
+Cloud Computing Specialist
 
-Infrastructure Analyst
+Cloud Solutions Architect
+
+DevOps
+
+Infrastructure
 
 Fullstack Development
 
 # Done
 
+**AWS**
+
+[![CCP Badge](https://img.shields.io/badge/Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53) 
+
 **Microsoft**
 
-[![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/certifications/exams/pl-900)
+[![AZ-900 Badge](https://img.shields.io/badge/AZ--900%20--%20Azure%20Fundamentals-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de) 
 
-[![SC-900 Badge](https://img.shields.io/badge/SC--900%20--%20Security%2C%20Compliance%20and%20Identity-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/sc-900/) 
+[![AI-900 Badge](https://img.shields.io/badge/AI--900%20--%20Azure%20AI%20Fundamentals-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7) 
+
+[![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
+
+[![SC-900 Badge](https://img.shields.io/badge/SC--900%20--%20Security%2C%20Compliance%20and%20Identity-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/463883d73e584396) 
 
 [![Power BI Badge](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/desktop/) - Udemy: [Power BI para Todos: Fácil e Simples!](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/)
 
 # Doing
 
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![GitHub Foundations Badge](https://img.shields.io/badge/GitHub%20Administration-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
+
+[![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
+
+[![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
+
+[![Google Badge](https://img.shields.io/badge/Google%20Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-engineer)
+
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 
 [![CSS Badge](https://img.shields.io/badge/CSS%20--%20freeCodeCamp%20--%20Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-[![Microsoft 365 Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
+
 
 # Want to Learn
 
