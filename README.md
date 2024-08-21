@@ -26,11 +26,11 @@ Fullstack Development
 
 **GitHub**
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/linked_in_profile)
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
 
 **Microsoft**
 
