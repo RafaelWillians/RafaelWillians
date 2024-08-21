@@ -18,7 +18,11 @@ Fullstack Development
 
 **AWS**
 
-[![CCP Badge](https://img.shields.io/badge/Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53) 
+[![CCP Badge](https://img.shields.io/badge/Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
+
+**Oracle**
+
+[![Oracle Badge](https://img.shields.io/badge/OCI%20Professional%20Generative%20AI%202024-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
 
 **GitHub**
 
