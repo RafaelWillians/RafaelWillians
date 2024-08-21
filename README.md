@@ -20,6 +20,14 @@ Fullstack Development
 
 [![CCP Badge](https://img.shields.io/badge/Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53) 
 
+**GitHub**
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
+
 **Microsoft**
 
 [![AZ-900 Badge](https://img.shields.io/badge/AZ--900%20--%20Azure%20Fundamentals-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de) 
@@ -34,11 +42,6 @@ Fullstack Development
 
 # Doing
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
 
 [![GitHub Foundations Badge](https://img.shields.io/badge/GitHub%20Administration-100000?style=for-the-badge&logo=github&logoColor=white)](https://resources.github.com/learn/certifications/)
 
