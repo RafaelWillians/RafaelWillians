@@ -10,8 +10,8 @@
 [![GitHub Actions](/logo/github-actions.png)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
 [![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
 [![GitHub Administration](/logo/github-administration.png)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
-[![Oracle Badge](/logo/oci-genai-pro-2024.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
 
+[![Oracle Badge](/logo/oci-genai-pro-2024.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
 [![AZ-900 Badge](/logo/az-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de)
 [![AI-900 Badge](/logo/ai-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7)
 [![Power BI Badge](/logo/pl-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
