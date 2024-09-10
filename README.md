@@ -6,30 +6,15 @@
 # Done
 
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
-
-**Oracle**
-
-[![Oracle Badge](https://img.shields.io/badge/OCI%20Professional%20Generative%20AI%202024-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
-
-**GitHub**
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Foundations-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/public_url)
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Actions-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub%20Advanced%20Security-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
-
-[![GitHub Foundations Badge](https://img.shields.io/badge/GitHub%20Administration-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
-
-**Microsoft**
-
-[![AZ-900 Badge](https://img.shields.io/badge/AZ--900%20--%20Azure%20Fundamentals-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de) 
-
-[![AI-900 Badge](https://img.shields.io/badge/AI--900%20--%20Azure%20AI%20Fundamentals-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7) 
-
-[![Power BI Badge](https://img.shields.io/badge/PL--900%20--%20Power%20Platform_-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
-
-[![SC-900 Badge](https://img.shields.io/badge/SC--900%20--%20Security%2C%20Compliance%20and%20Identity-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/463883d73e584396) 
+[![GitHub Badge](/logo/github-foundations.png)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/public_url)
+[![GitHub Actions](/logo/github-actions.png)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
+[![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
+[![GitHub Administration](/logo/github-administration.png)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
+[![Oracle Badge](/logo/oci-genai-pro-2024.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
+[![AZ-900 Badge](/logo/az-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de)
+[![AI-900 Badge](/logo/ai-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7)
+[![Power BI Badge](/logo/pl-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
+[![SC-900 Badge](/logo/sc-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/463883d73e584396) 
 
 [![Power BI Badge](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/desktop/) - Udemy: [Power BI para Todos: Fácil e Simples!](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/)
 
