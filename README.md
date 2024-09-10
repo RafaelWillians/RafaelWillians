@@ -18,10 +18,7 @@
 [![Power BI Badge](/logo/pl-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
 [![SC-900 Badge](/logo/sc-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/463883d73e584396) 
 
-[![Power BI Badge](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/pt-br/desktop/) - Udemy: [Power BI para Todos: Fácil e Simples!](https://www.udemy.com/course/power-bi-para-todos-facil-e-simples/)
-
 # Doing
-
 
 [![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
@@ -29,8 +26,6 @@
 [![Google Badge](https://img.shields.io/badge/Google%20Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-engineer)
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 [![CSS Badge](https://img.shields.io/badge/CSS%20--%20freeCodeCamp%20--%20Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-
-
 
 # Want to Learn
 
@@ -53,6 +48,7 @@
 [![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&link=https://visualstudio.microsoft.com/downloads/)](https://visualstudio.microsoft.com/downloads/)
 [![Typora Badge](https://img.shields.io/badge/Typora-FDF8F6?style=for-the-badge&logo=typora&link=https://typora.io/)](https://typora.io/)
 [![Git Badge](https://img.shields.io/badge/GIT-FDF8F6?style=for-the-badge&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
+[![Shell Script Badge](https://img.shields.io/badge/Shell%20Script-FDF8F6?style=for-the-badge)]()
 [![Flowgorith Badge](https://img.shields.io/badge/Flowgorithm-5AC710?style=for-the-badge&link=http://www.flowgorithm.org/)](http://www.flowgorithm.org/)
 [![Windows10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows10)
 [![Windows11 Badge](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
