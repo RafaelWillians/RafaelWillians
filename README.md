@@ -6,6 +6,7 @@
 # Done
 
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
+[![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url)
 [![GitHub Badge](/logo/github-foundations.png)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/public_url)
 [![GitHub Actions](/logo/github-actions.png)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
 [![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
