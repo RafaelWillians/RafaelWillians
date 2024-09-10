@@ -2,23 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-silva-willians/)](https://www.linkedin.com/in/rafael-silva-willians/)[![Linktree Badge](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/rafawillians)](https://linktr.ee/rafawillians/)[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RafaelWillians)](https://github.com/RafaelWillians)[![Hotmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.willians@outlook.com)](mailto:rafael.willians@outlook.com)
 
-# Objective
-
-Cloud Computing Specialist
-
-Cloud Solutions Architect
-
-DevOps
-
-Infrastructure
-
-Fullstack Development
 
 # Done
 
-**AWS**
-
-[![CCP Badge](https://img.shields.io/badge/Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
+[![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
 
 **Oracle**
 
