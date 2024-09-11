@@ -29,7 +29,6 @@
 
 # Want to Learn
 
-[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![Azure Devops Badge](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()
 [![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
@@ -44,6 +43,8 @@
 
 # Toolset
 
+[![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)]()
+[![Azure Badge](https://img.shields.io/badge/Microsoft_Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://code.visualstudio.com/download)](https://code.visualstudio.com/download)
 [![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&link=https://visualstudio.microsoft.com/downloads/)](https://visualstudio.microsoft.com/downloads/)
 [![Typora Badge](https://img.shields.io/badge/Typora-FDF8F6?style=for-the-badge&logo=typora&link=https://typora.io/)](https://typora.io/)
@@ -55,4 +56,3 @@
 [![Windows10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows10)
 [![Windows11 Badge](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
 [![Microsoft 365 Badge](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365)
-[![Azure AD Badge](https://img.shields.io/badge/Microsoft_Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/pt-br/products/active-directory)
