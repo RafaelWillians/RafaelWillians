@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-silva-willians/)](https://www.linkedin.com/in/rafael-silva-willians/)[![Linktree Badge](https://img.shields.io/badge/-Linktr.ee-green?style=flat-square&logo=Linktree&logoColor=white&link=https://linktr.ee/rafawillians)](https://linktr.ee/rafawillians/)[![Hotmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.willians@outlook.com)](mailto:rafael.willians@outlook.com)
 
-
 # Done
 
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
