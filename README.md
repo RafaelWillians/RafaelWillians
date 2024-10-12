@@ -4,6 +4,7 @@
 
 # Done
 
+[![Google ACE](/logo/google-ace.png)](https://www.credly.com/badges/99c892ac-5a3e-4537-b75c-01c5700e4e44/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url)
 [![GitHub Badge](/logo/github-foundations.png)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/public_url)
@@ -22,7 +23,6 @@
 [![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
 [![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
-[![Google Badge](https://img.shields.io/badge/Google%20Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/learn/certification/cloud-engineer)
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
 [![CSS Badge](https://img.shields.io/badge/CSS%20--%20freeCodeCamp%20--%20Responsive%20Web%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
