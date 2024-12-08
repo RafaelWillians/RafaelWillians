@@ -4,6 +4,7 @@
 
 # Done
 
+[![Google ACE](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
 [![Google ACE](/logo/google-ace.png)](https://www.credly.com/badges/99c892ac-5a3e-4537-b75c-01c5700e4e44/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
 [![AZ-900 Badge](/logo/az-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de)
@@ -17,7 +18,6 @@
 [![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
 [![GitHub Administration](/logo/github-administration.png)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
 [![GitHub Copilot](/logo/github-actions.png)](https://www.credly.com/badges/df391675-f12f-4533-a005-cea99102405a/public_url)
-
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
 
 # Doing
