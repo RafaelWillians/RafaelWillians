@@ -20,10 +20,12 @@
 [![GitHub Copilot](/logo/github-actions.png)](https://www.credly.com/badges/df391675-f12f-4533-a005-cea99102405a/public_url)
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
 
+### Also Done
+[![Google Cloud Gen AI Badge](https://img.shields.io/badge/GOOGLE%20CLOUD%20GENERATIVE%20AI-FDF8F6?style=for-the-badge&logo=google-cloud&link=https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)](https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)
+
 # Doing
 
 [![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Google Cloud Gen AI Badge](https://img.shields.io/badge/GOOGLE%20CLOUD%20GENERATIVE%20AI-FDF8F6?style=for-the-badge&logo=google-cloud&link=https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)](https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
 [![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
