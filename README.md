@@ -4,21 +4,35 @@
 
 # Done
 
-[![Google ACE](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
-[![Google ACE](/logo/google-ace.png)](https://www.credly.com/badges/99c892ac-5a3e-4537-b75c-01c5700e4e44/public_url)
+### AWS
+
+[![AWS SysOps](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
+[![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
+
+### Google Cloud
+
+[![Google ACE](/logo/google-ace.png)](https://www.credly.com/badges/99c892ac-5a3e-4537-b75c-01c5700e4e44/public_url)
+
+### Microsoft
+
 [![AZ-900 Badge](/logo/az-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de)
 [![AI-900 Badge](/logo/ai-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7)
 [![Power BI Badge](/logo/pl-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
 [![SC-900 Badge](/logo/sc-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/463883d73e584396)
 
-[![Oracle Badge](/logo/oci-genai-pro-2024.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
+
+### GitHub 👑
+
 [![GitHub Badge](/logo/github-foundations.png)](https://www.credly.com/badges/71c02d39-c700-41b3-9838-8ee81c3d8ea4/public_url)
 [![GitHub Actions](/logo/github-actions.png)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
 [![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
 [![GitHub Administration](/logo/github-administration.png)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
 [![GitHub Copilot](/logo/github-actions.png)](https://www.credly.com/badges/df391675-f12f-4533-a005-cea99102405a/public_url)
-[![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
+
+### Oracle Cloud Infrastructure
+
+[![Oracle Badge](/logo/oci-genai-pro-2024.png)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=ADFB7C6F8CFB6FA1510EBC174ED42639E81B8866526351D77F1E983EF7C42072)
 
 ### Also Done
 [![Google Cloud Gen AI Badge](https://img.shields.io/badge/GOOGLE%20CLOUD%20GENERATIVE%20AI-FDF8F6?style=for-the-badge&logo=google-cloud&link=https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)](https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud)
