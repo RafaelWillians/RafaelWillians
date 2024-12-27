@@ -16,6 +16,7 @@
 
 ### Microsoft
 
+[![DP-600 Badge](/logo/dp-600.png)](https://learn.microsoft.com/api/credentials/share/pt-br/RafaelSilvaWillians-9018/1AD0777E852CB86C?sharingId=9D377138B801CB04)
 [![AZ-900 Badge](/logo/az-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/e0fc09c5008154de)
 [![AI-900 Badge](/logo/ai-900.png)](https://learn.microsoft.com/en-us/users/rafaelsilvawillians-9018/credentials/2392b816c92a60d7)
 [![Power BI Badge](/logo/pl-900.png)](https://learn.microsoft.com/pt-br/users/rafaelsilvawillians-9018/credentials/a9eed214ecb5ec0)
@@ -42,7 +43,6 @@
 [![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![CCP Badge](https://img.shields.io/badge/Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
 [![CCP Badge](https://img.shields.io/badge/Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
-[![Microsoft Badge](https://img.shields.io/badge/DP--600%20--%20Fabric%20Analytics%20Engineer%20Associate-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
 [![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
