@@ -6,6 +6,8 @@
 
 ### AWS
 
+[![AWS Developer](/logo/aws-certified-developer-associate.png)](https://www.credly.com/badges/d391e854-262f-461e-9368-2853cdeba4cc/public_url
+)
 [![AWS SysOps](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://cp.certmetrics.com/amazon/en/public/verify/credential/0e27829ffd0d42ac9a5422e633549d53)
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
@@ -41,7 +43,6 @@
 # Doing
 
 [![CCP Badge](https://img.shields.io/badge/Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![CCP Badge](https://img.shields.io/badge/Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
 [![CCP Badge](https://img.shields.io/badge/Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
 [![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
