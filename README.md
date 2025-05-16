@@ -32,7 +32,7 @@
 [![GitHub Actions](/logo/github-actions.png)](https://www.credly.com/badges/0c14e7ef-6cf6-4c0e-8633-33b84be898e1/public_url)
 [![GitHub Advanced Security](/logo/github-advanced-security.png)](https://www.credly.com/badges/96e6c731-7c05-4b74-881b-5696228562d4/public_url)
 [![GitHub Administration](/logo/github-administration.png)](https://www.credly.com/badges/4ff8392b-b5b9-4e02-9091-663e105556f7/public_url)
-[![GitHub Copilot](/logo/github-actions.png)](https://www.credly.com/badges/df391675-f12f-4533-a005-cea99102405a/public_url)
+[![GitHub Copilot](/logo/github-copilot.png)](https://www.credly.com/badges/df391675-f12f-4533-a005-cea99102405a/public_url)
 
 ### Oracle Cloud Infrastructure
 
