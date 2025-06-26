@@ -9,6 +9,7 @@
 [![AWS SAA](/logo/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/9d411903-5b61-4f58-b586-fe38c4f6f0c4/public_url)
 [![AWS Developer](/logo/aws-certified-developer-associate.png)](https://www.credly.com/badges/d391e854-262f-461e-9368-2853cdeba4cc/public_url)
 [![AWS SysOps](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
+[![AWS Data Engineer](/logo/aws-certified-data-engineer-associate.png)](https://www.credly.com/badges/3e4383cd-77b8-459a-9caa-d2b6913732f6/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/71021a49-9a34-494b-a37f-fa14ac6703cc/public_url)
 [![AWS Certified AI Practitioner](/logo/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/7ce23f0e-5d98-43e0-be00-e643a4287bf0/public_url)
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
@@ -45,8 +46,6 @@
 
 [![Python Badge](https://img.shields.io/badge/Python-3772A2?style=for-the-badge&logo=python&logoColor=white)]()
 [![AWS ML Engineer Badge](https://img.shields.io/badge/Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/)
-[![AWS Data Engineer Badge](https://img.shields.io/badge/Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/certification/certified-data-engineer-associate/)
-[![Microsoft Badge](https://img.shields.io/badge/AZ--204%20--%20Microsoft%20Azure%20Developer%20Associate-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/az-204)
 [![Microsoft Badge](https://img.shields.io/badge/MS--900%20--%20Microsoft%20365%20Foundations-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/ms-900)
 [![Microsoft Badge](https://img.shields.io/badge/DP--900%20--%20Azure%20Data%20Foundations-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/exams/dp-900)
 [![C-Sharp Badge](https://img.shields.io/badge/C%23%20--%20C%23%20Certification%20with%20freeCodeCamp%20Challenge-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/training/challenges?id=8cf09b9b-743d-4f5f-9cd0-1aa1483d3d7a)
