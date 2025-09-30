@@ -9,7 +9,7 @@
 [![AWS SAA](/logo/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/9d411903-5b61-4f58-b586-fe38c4f6f0c4/public_url)
 [![AWS Developer](/logo/aws-certified-developer-associate.png)](https://www.credly.com/badges/d391e854-262f-461e-9368-2853cdeba4cc/public_url)
 [![AWS SysOps](/logo/aws-certified-sysops-administrator-associate.png)](https://www.credly.com/badges/ceb40381-a5bf-43d1-93f9-66b41c282ee9/public_url)
-[![AWS Data Engineer](/logo/aws-certified-data-engineer-associate.png)](https://www.credly.com/badges/3e4383cd-77b8-459a-9caa-d2b6913732f6/public_url)
+[![AWS Data Engineer](/logo/aws-certified-data-engineer-associate.png)](https://www.credly.com/badges/3e4383cd-77b8-459a-9caa-d2b6913732f6/public_url)[![AWS ML Engineer](/logo/aws-certified-machine-learning-engineer-associate.png)](https://www.credly.com/badges/18c417e6-93b6-42f0-a947-13127a4ec94c/public_url)
 [![AWS Certified Cloud Practitioner](/logo/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/71021a49-9a34-494b-a37f-fa14ac6703cc/public_url)
 [![AWS Certified AI Practitioner](/logo/aws-certified-ai-practitioner.png)](https://www.credly.com/badges/7ce23f0e-5d98-43e0-be00-e643a4287bf0/public_url)
 [![AWS Cloud Architecting](/logo/aws-cloud-architecting.png)](https://www.credly.com/badges/cc1c439a-a7e4-4b13-adc8-5cb9f0589d2f/public_url) 
